@@ -3,3 +3,6 @@
 
 # Ignore pycharm
 .idea
+
+# Ignore debug
+debug
