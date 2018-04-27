@@ -9,3 +9,6 @@ debug
 
 # Ignore vscode
 .vscode
+
+# Ignore jupyter notebooks temp files
+.ipynb*
